@@ -6,6 +6,7 @@
 ![Alt text](https://github.com/mikaozora/SequentialSearch/blob/master/praktikum3.PNG)
 ![Alt text](https://github.com/mikaozora/SequentialSearch/blob/master/challenge%20praktikum%203.PNG)
 ![Alt text](https://github.com/mikaozora/SequentialSearch/blob/master/praktikum4.PNG)
+# TUGAS
 ![Alt text](https://github.com/mikaozora/SequentialSearch/blob/master/tugaspraktikum1.PNG)
 ![Alt text](https://github.com/mikaozora/SequentialSearch/blob/master/tugaspraktikum1(2).PNG)
 ![Alt text](https://github.com/mikaozora/SequentialSearch/blob/master/tugaspraktikum2.PNG)
